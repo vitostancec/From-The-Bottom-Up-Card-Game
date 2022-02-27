@@ -1,4 +1,4 @@
-# From-The-Bottom-Up-Card-Game
+# From-The-Bottom-Up-Card-Game (Tkinter)
 
 ## About the game
 The game From The Bottom Up is a simple card game where player can test his skills (or luck) of guessing computer cards. 
