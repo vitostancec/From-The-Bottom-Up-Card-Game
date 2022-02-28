@@ -98,7 +98,6 @@ def show_cards_computer(x):
     panel_9.grid(row=0, column=5)
     if x >= 5:
         panel_9.grid_forget()
-        frame_cards_computer.forget()
 
 def cards_in_the_middle(card):
     panel_0 = Label(frame_cards_middle, image= card, bg="black")
@@ -295,7 +294,7 @@ def about_game():
     label_about = Label(window_ag, text= """ 
     The game From The Bottom Up is a simple card game where player can test his skills (or luck) of guessing computer cards. 
     
-    The goal of the game is very simple. Sort cards from the smallest number to the largest number. Just that!
+    The goal of the game is very simple. Sort cards from the smallest number to the largest number.
         
     Will player throw the next card or will the computer? The choice will result in victory or defeat. 
 
