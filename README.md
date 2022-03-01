@@ -19,3 +19,7 @@ If player wants the computer to discard the card with the lowest number, he pres
 If the smallest card is not thrown, the game stops.
 
 ## The game was created for the purpose of learning python language.
+
+
+
+![picture_github_game](https://user-images.githubusercontent.com/99552865/156159288-a648be01-9640-4fe0-b9a7-876f882e3dd5.PNG)
