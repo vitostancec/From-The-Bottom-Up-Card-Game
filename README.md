@@ -12,9 +12,9 @@ The deck contains cards numbered 1-100. At the beginning of each round, players 
     
 The player must sort the cards from the smallest number to the largest, but he doesn't know which cards the computer has. 
     
-If the player wants to discard one of his cards, he presses it. 
+If the player wants to discard one of his cards, they presses it. 
     
-If player wants the computer to discard the card with the lowest number, he presses the computer button.
+If player wants the computer to discard the card with the lowest number, they presses the computer button.
     
 If the smallest card is not thrown, the game stops.
 
